@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "三子棋及扫雷", "三子棋及扫雷\三子棋及扫雷.vcxproj", "{74908185-8AD1-4B98-ACB6-957C851F2489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74908185-8AD1-4B98-ACB6-957C851F2489}.Debug|Win32.ActiveCfg = Debug|Win32
+		{74908185-8AD1-4B98-ACB6-957C851F2489}.Debug|Win32.Build.0 = Debug|Win32
+		{74908185-8AD1-4B98-ACB6-957C851F2489}.Release|Win32.ActiveCfg = Release|Win32
+		{74908185-8AD1-4B98-ACB6-957C851F2489}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
